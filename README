@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2051
+
+This plugin adds syntax highlighting for Encase Scripts (aka enscript files).
+
+Actually it is a modified version of the cpp.vim module, but I'm planning to add autocompletion and more fixups.
+
+Please. Feel free to send me patches and bug reports to: g??cnapnxr@lbhgrez.pbz
